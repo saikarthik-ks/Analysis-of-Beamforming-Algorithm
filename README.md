@@ -17,12 +17,13 @@ The results help determine which algorithm provides optimal signal quality and s
 ---
 
 ## ⚙️ Tools and Technologies
-- MATLAB  
-- Python  
-- NumPy  
-- Matplotlib  
-- PyTorch  
-- Communication System Toolbox  
+- MATLAB R2021b  
+- Python 3.10  
+- NumPy 1.26.4  
+- Matplotlib 3.9.2  
+- PyTorch 2.2.2  
+- TensorFlow 2.15.0  
+- Communication System Toolbox (MATLAB)   
 
 ---
 
